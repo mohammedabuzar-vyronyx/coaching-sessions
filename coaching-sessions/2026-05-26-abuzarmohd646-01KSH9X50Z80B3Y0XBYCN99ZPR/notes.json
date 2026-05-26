@@ -1,60 +1,60 @@
 {
-  "summary": "The client came into the session fatigued from a demanding work week but motivated to address a stalled promotion conversation. Despite thorough preparation in the prior session, the client rescheduled the planned promotion discussion with their manager, ultimately recognizing that fear of rejection — not team stress — was the primary driver. The session focused on unpacking that avoidance and reconnecting the client to their readiness.",
+  "summary": "The client came into the session fatigued from a demanding work week with late nights tied to a product deadline. The central focus was a promotion conversation the client had fully prepared for but ultimately rescheduled at the last moment. Through reflection, the client identified that while they rationalized the delay as poor timing due to team stress, the underlying driver was fear of rejection — specifically, fear of hearing 'not yet' again from their manager.",
   "keyThemes": [
     "Fear of rejection blocking career advocacy",
-    "Avoidance disguised as situational reasoning",
-    "Workload and burnout affecting confidence",
-    "Promotion readiness and self-advocacy",
-    "Self-awareness as a catalyst for action"
+    "Promotion conversation avoidance despite full preparation",
+    "Work stress and deadlines affecting emotional readiness",
+    "Rationalizing avoidance with external circumstances",
+    "Self-awareness as a gateway to overcoming hesitation"
   ],
   "insights": [
-    "The client had a fully prepared promotion case (accomplishments, numbers, market data) but chose to reschedule — indicating the barrier is emotional, not logistical.",
-    "The client initially rationalized the avoidance as concern for team stress, but self-corrected in session to identify fear of rejection as the real cause — a meaningful moment of self-honesty.",
-    "The recurring 'not yet' response from the manager appears to be a significant source of anxiety and may be shaping the client's expectations negatively.",
-    "Physical and mental fatigue from late nights and deadlines is compounding the client's emotional bandwidth, making high-stakes conversations feel even more daunting."
+    "The client had done the preparation work — accomplishments, numbers, market data — but still avoided the conversation, indicating the barrier is emotional, not logistical.",
+    "The client demonstrated meaningful self-awareness by distinguishing between their stated reason (team stress) and their real reason (fear of rejection), which is a significant coaching breakthrough.",
+    "The phrase 'not yet again' suggests this is a recurring pattern, implying the client may have been denied or deferred before, adding historical weight to the fear.",
+    "The client's willingness to push through the session despite fatigue signals motivation and investment in resolving this issue."
   ],
   "actionItems": [
     {
-      "text": "Revisit and refresh your promotion preparation materials (accomplishments, numerical evidence, market data) so they are sharp and ready for the rescheduled conversation.",
+      "text": "Revisit and refine your promotion case — accomplishments, numerical evidence, and market data — so it is ready to deliver confidently at the rescheduled conversation.",
       "priority": "high",
       "owner": "abuzarmohd646"
     },
     {
-      "text": "Set a specific date and time for the rescheduled promotion conversation with your manager — commit to a concrete deadline rather than leaving it open-ended.",
+      "text": "Identify a specific, realistic date for the rescheduled promotion conversation with your manager and commit to it before the next coaching session.",
       "priority": "high",
       "owner": "abuzarmohd646"
     },
     {
-      "text": "Reflect on what a 'no' or 'not yet' response would actually mean for you, and come to the next session prepared to discuss how you would handle that outcome.",
+      "text": "Reflect on what 'hearing no' would actually mean for you — journal or think through the worst-case scenario and how you would respond to it.",
       "priority": "medium",
       "owner": "abuzarmohd646"
     }
   ],
   "coachActionItems": [
     {
-      "text": "Design next session's agenda around fear of rejection — explore the client's history with this pattern and develop reframing strategies specific to the promotion context.",
+      "text": "Design next session agenda around fear-of-rejection work — explore the history behind 'not yet again' and whether there is a prior deferral shaping current avoidance.",
       "priority": "high",
       "owner": "azrajaved545"
     },
     {
-      "text": "Prepare coaching prompts to help the client decouple their self-worth from the manager's response, particularly given the repeated 'not yet' dynamic.",
+      "text": "Prepare tactical coaching prompts to help client rehearse the promotion conversation, including how to respond if the manager says no or defers.",
       "priority": "high",
       "owner": "azrajaved545"
     },
     {
-      "text": "Follow up before next session to check whether the client has locked in a date for the promotion conversation — light accountability nudge via message.",
+      "text": "Follow up at session start to confirm whether client has set a concrete date for the promotion conversation.",
       "priority": "medium",
       "owner": "azrajaved545"
     }
   ],
   "followUpTopics": [
     "Whether the promotion conversation was rescheduled and what the outcome was",
-    "Deeper exploration of fear of rejection and its roots",
-    "Strategies for managing the emotional aftermath of a potential 'not yet' response",
-    "How workload and burnout are affecting the client's overall career confidence",
-    "Timing strategy: how to read team and manager conditions for high-stakes conversations"
+    "Deeper exploration of the fear of rejection and its origins",
+    "Strategies for timing and framing the promotion ask given team dynamics",
+    "How the client handles repeated deferral and maintains motivation",
+    "Work-life energy management during high-deadline periods"
   ],
-  "coachObservations": "The client showed a genuinely important moment of self-correction mid-session — initially offering a socially acceptable excuse (team stress) before catching themselves and naming the real issue (fear of rejection). This is a good sign for coachability and self-awareness, but the pattern of avoidance is concerning given that the preparation work was already done. The barrier is clearly psychological, not practical. The repeated 'not yet' from the manager seems to have created a conditioned fear response — worth exploring whether this manager has a history of vague or discouraging feedback, and whether the client's read of the situation is accurate or distorted by anxiety. The client also appears to be running on empty physically, which is likely amplifying emotional sensitivity. I should be careful not to push too hard on action while they're in a depleted state — the goal next session is to build emotional resilience around rejection, not just tactical preparation. Watch for whether the client continues to find situational reasons to delay; if the pattern repeats after the next session, it may warrant a more direct conversation about what staying stuck is costing them.",
+  "coachObservations": "The client is clearly capable and prepared on paper — they had the full case built — but is stuck in a pattern of avoidance driven by emotional risk aversion. The phrase 'not yet again' is a red flag worth probing: this implies at least one prior rejection or deferral, and the client may be carrying accumulated discouragement that is now compounding the fear. The rationalization about team stress was sophisticated enough that the client almost believed it themselves, which suggests a degree of self-protective thinking that could become a recurring obstacle. The self-awareness shown in this session is genuinely promising — the client caught themselves mid-rationalization, which is not easy. However, awareness alone won't move the needle; the next sessions need to build emotional tolerance for rejection and concrete rehearsal of the conversation. Also worth noting: the client came in fatigued and still engaged productively, which speaks to their commitment. Be mindful not to overload them with homework given the current workload pressure — keep action items focused and achievable.",
   "sessionMetadata": {
     "clientName": "abuzarmohd646",
     "clientEmail": "abuzarmohd646@gmail.com",
