@@ -1,62 +1,64 @@
 {
   "summary": "Muhammad came into the session fatigued from a high-pressure week of late nights working toward a product deadline. Despite being fully prepared with accomplishments, metrics, and market data, he avoided the promotion conversation he had planned for the previous Friday and rescheduled it. The session focused on understanding the hesitation behind that avoidance and connecting the upcoming product deadline as a potential leverage point for the promotion discussion.",
   "keyThemes": [
-    "Avoidance of prepared promotion conversation despite readiness",
-    "Work fatigue and its impact on confidence and follow-through",
-    "Psychological barriers overriding logical preparation",
+    "Avoidance of prepared promotion conversation",
+    "Fatigue and its impact on confidence and follow-through",
+    "Psychological barriers to self-advocacy",
     "Linking product deadline outcomes to promotion timing",
-    "Emotional readiness vs. intellectual readiness gap",
-    "Coaching continuity from prior session preparation work"
+    "Emotional readiness vs. intellectual preparedness"
   ],
   "insights": [
-    "Muhammad had done the intellectual work — accomplishments, numbers, market benchmarks — but still avoided the conversation, suggesting the barrier is emotional or psychological, not preparational.",
-    "The avoidance happened despite a clear plan, which may indicate deeper fears around rejection, conflict, or self-worth tied to the promotion outcome.",
-    "Fatigue from late nights appears to be compounding his hesitation, potentially lowering his threshold for risk-taking and self-advocacy.",
-    "Muhammad is motivated and wants to push through, which is a positive signal — he is not disengaged, just stuck at the execution step.",
-    "The product deadline may be serving a dual purpose: a genuine strategic moment to showcase value, but also potentially a rationalization to delay the conversation further."
+    "Muhammad had done the intellectual work — accomplishments, numbers, market benchmarks — but still did not initiate the conversation, suggesting the barrier is emotional or psychological, not preparedness-related.",
+    "The pattern of rescheduling despite being ready is a key signal worth exploring: what specifically triggered the avoidance at the moment of action?",
+    "Muhammad is motivated to push through fatigue and engage in coaching, which indicates resilience and commitment, but the tiredness may be lowering his threshold for risk-taking and self-advocacy.",
+    "He is framing the product deadline as connected to the promotion conversation, which could be either a strategic insight or a rationalization to delay further — worth distinguishing."
   ],
   "actionItems": [
     {
-      "text": "Reschedule and follow through on the promotion conversation with your manager — do not let the product deadline become another reason to postpone it.",
+      "text": "Reschedule and commit to a specific date and time for the promotion conversation with your manager — do not leave it open-ended.",
       "priority": "high",
       "owner": "Muhammad Abuzar"
     },
     {
-      "text": "Identify a specific date and time this week to have the promotion conversation and share it with your coach for accountability.",
+      "text": "Before the conversation, revisit your prepared materials (accomplishments, numbers, market data) and do a brief verbal run-through to rebuild confidence.",
       "priority": "high",
       "owner": "Muhammad Abuzar"
     },
     {
-      "text": "Reflect on what specifically stopped you from having the conversation last Friday — write it down before the next session.",
+      "text": "Reflect on what specifically stopped you from initiating the conversation last Friday — write down what you were feeling or thinking in that moment.",
       "priority": "medium",
       "owner": "Muhammad Abuzar"
     }
   ],
   "coachActionItems": [
     {
-      "text": "Explore the psychological block in depth next session — probe for fear of rejection, imposter syndrome, or manager relationship dynamics.",
+      "text": "Explore the avoidance pattern more deeply next session — probe what the internal narrative was at the moment Muhammad chose to reschedule.",
       "priority": "high",
       "owner": "Vyronyx"
     },
     {
-      "text": "Review preparation materials Muhammad built (accomplishments, numbers, market data) to ensure they are still sharp and current post-deadline.",
+      "text": "Assess whether Muhammad's framing of 'waiting for the product deadline' is a genuine strategic move or a delay tactic, and address accordingly.",
+      "priority": "high",
+      "owner": "Vyronyx"
+    },
+    {
+      "text": "Consider introducing a confidence or self-advocacy exercise given the gap between intellectual readiness and emotional follow-through.",
       "priority": "medium",
       "owner": "Vyronyx"
     },
     {
-      "text": "Consider introducing a confidence or self-advocacy framework if avoidance pattern repeats after this session.",
-      "priority": "medium",
+      "text": "Note: transcript references 'James' at the start — clarify whether this is a nickname for Muhammad or a transcript error.",
+      "priority": "low",
       "owner": "Vyronyx"
     }
   ],
   "followUpTopics": [
-    "What specifically triggered the decision to reschedule on Friday — situational or internal?",
-    "Outcome of the rescheduled promotion conversation",
-    "Whether the product deadline was used strategically or as further avoidance",
-    "Muhammad's relationship dynamic with his manager and how that influences self-advocacy",
-    "Energy and recovery plan post-deadline to sustain performance"
+    "What happened internally when Muhammad chose not to have the conversation on Friday",
+    "Whether the product deadline is a strategic anchor or a rationalization for delay",
+    "Progress on rescheduling and outcome of the promotion conversation",
+    "Ongoing fatigue levels and sustainability of current work pace"
   ],
-  "coachObservations": "Muhammad is intellectually prepared but emotionally stuck — this is a classic execution gap driven by psychological avoidance, not lack of readiness. The fact that he had everything planned and still bailed is a significant signal worth probing carefully. There is likely a deeper fear at play: rejection, being told no, or having his self-worth tied to the outcome of this conversation. Watch for rationalization patterns — the product deadline framing could be a legitimate strategy or a sophisticated avoidance mechanism dressed up as logic. He presents as motivated and self-aware on the surface, but the repeated deferral suggests he may need more direct challenge from the coach rather than just support and validation. Also note: the coach greeted him as 'James' at the start of the session — this may be a transcript error or a genuine mistake worth being mindful of in the coaching relationship.",
+  "coachObservations": "Muhammad presents as intellectually capable and well-prepared, but there is a clear and concerning gap between preparation and execution when it comes to self-advocacy. He did everything right on paper — built the case, gathered data — and then bailed at the last moment. This is not a skills problem; it is a psychological one, likely rooted in fear of rejection, conflict avoidance, or imposter syndrome. The fatigue is real but may also be serving as a convenient cover story for avoidance. Worth watching whether the 'product deadline' framing becomes a recurring reason to delay. The session was very short (transcript ends abruptly at ~2:27), so there is limited data to work with — the real coaching work likely happened off-transcript or the session was cut short. Also flag: Vyronyx addressed Muhammad as 'James' at the start of the call — this could be a transcript error or an alias, but it should be clarified to avoid eroding rapport or trust.",
   "sessionMetadata": {
     "clientName": "coaching",
     "clientEmail": "contactvyronyx@gmail.com",
